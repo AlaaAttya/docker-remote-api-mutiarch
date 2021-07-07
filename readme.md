@@ -5,3 +5,7 @@ Start with:
 
 
 Inspired by: https://github.com/jarkt/docker-remote-api
+
+
+#### Warning
+This is not a secure way to do it. Recommended only if you want to try it within your home/local network
